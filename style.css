@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
 background-color: #FFFFFF;
+=======
+background-color: #000000;
+>>>>>>> 2f8594660c8e61b2cdd7316d6b7e1e6b1865c31f
 font-family: sans-serif;
 font-size: 10px;
 }
@@ -18,7 +22,11 @@ border-box, *:before, *:after {
       height:667px;
       border-style: solid;
       border-width: thin;
+<<<<<<< HEAD
       background-color: #D3D3D3;
+=======
+      background-color: #000000;
+>>>>>>> 2f8594660c8e61b2cdd7316d6b7e1e6b1865c31f
       margin:auto;
       }
 
