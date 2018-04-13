@@ -13,7 +13,6 @@ border-box, *:before, *:after {
   box-sizing: inherit;
 }
 
-
 nav {
   height: 68px;
   width: 375px;
@@ -53,7 +52,7 @@ margin-top: 10px;
 }
 
 
-.Container {
+.container {
       width:376px;
       height:667px;
       border-style: solid;
@@ -73,7 +72,7 @@ margin-top: 10px;
   background-color: #264563
 }
 
-.East {
+.east {
     width: 374px;
     height: 80px;
     padding-top: 10px;
@@ -83,7 +82,7 @@ margin-top: 10px;
     color: #FFFFFF;
     }
 
-.North {
+.north {
   width:374px;
   height: 60px;
   background-color: #2769A9;
@@ -92,7 +91,7 @@ margin-top: 10px;
   color: #FFFFFF;
 }
 
-.South {
+.south {
 width: 374px;
 height: 80px;
 background-color: #2769A9;
@@ -101,7 +100,7 @@ border-bottom-width: medium;
 color: #FFFFFF;
 }
 
-.Reroute {
+.reroute {
   width: 374px;
   height:60px;
   background-color: #2769A9;
@@ -110,7 +109,7 @@ color: #FFFFFF;
   color: #FFFFFF;
 }
 
-.OutofServ {
+.outofserv {
   width:374px;
   height: 100px;
   background-color: #2769A9;
@@ -119,73 +118,73 @@ color: #FFFFFF;
   color: #FFFFFF;
 }
 
-.East h1 {
+.east h1 {
 font-size: 14px;
 margin-left: 10px;
 margin-top: -5px;
 }
 
-.North h1{
+.north h1{
 font-size: 14px;
 margin-left: 10px;
 margin-top: 1px;
 padding-top: 5px;
 }
 
-.North h2 {
+.north h2 {
 margin-top: -5px;
 margin-left: -20px;
 }
 
-.North h3 {
+.north h3 {
 margin-left: 180px;
 }
 
-.South h1 {
+.south h1 {
   font-size: 14px;
   margin-left: 10px;
   margin-top: 1px;
   padding-top: 5px;
 }
 
-.South h2{
+.south h2{
   margin-top: -5px;
   margin-left: -20px;
 }
 
-.South h3{
+.south h3{
   margin-left: 180px;
 }
 
-.Reroute h1 {
+.reroute h1 {
   font-size: 14px;
   margin-left: 10px;
   margin-top:1px;
   padding-top: 5px;
 }
 
-.Reroute h2 {
+.reroute h2 {
   margin-top: -5px;
   margin-left: -20px;
 }
 
-.Reroute h3 {
+.reroute h3 {
   margin-left: 200px;
 }
 
-.OutofServ h1 {
+.outofserv h1 {
   font-size: 14px;
   margin-left: 10px;
   margin-top:1px;
   padding-top: 5px;
 }
 
-.OutofServ h2 {
+.outofserv h2 {
   margin-top: -5px;
   margin-left: -20px;
 }
 
-.OutofServ h3 {
+.outofserv h3 {
   margin-left: 180px;
 }
 
