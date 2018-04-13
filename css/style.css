@@ -37,7 +37,7 @@ nav {
 
 .bubble {
   position: absolute;
-  padding-left: 246px;
+  padding-left: 244px;
   padding-top: 40px;
 }
 
@@ -48,7 +48,7 @@ margin-top: 10px;
 
 .wrapper {
   overflow-y:scroll;
-  height:599px;
+  height:667px;
 }
 
 
@@ -74,7 +74,7 @@ margin-top: 10px;
 
 .east {
     width: 374px;
-    height: 80px;
+    height: 70px;
     padding-top: 10px;
     background-color: #2769A9;
     border-bottom-color: #FFFFFF;
@@ -156,6 +156,7 @@ margin-left: 180px;
   margin-left: 180px;
 }
 
+
 .reroute h1 {
   font-size: 14px;
   margin-left: 10px;
@@ -171,6 +172,8 @@ margin-left: 180px;
 .reroute h3 {
   margin-left: 200px;
 }
+
+
 
 .outofserv h1 {
   font-size: 14px;
@@ -190,16 +193,10 @@ margin-left: 180px;
 
 
 
-
-
-
-ul{
+ul li{
   list-style-type: none;
+  display: inline-block;
 }
-
-li{
-}
-
 
 h1{
   margin-top: 50px;
@@ -213,6 +210,12 @@ h2{
 h3{
   font-size: 12px;
   margin-left: 170px;
+}
+
+p {
+  font-size: 12px;
+  margin-left: 50px;
+  margin-top: 10px
 }
 
 h4 {
@@ -230,11 +233,4 @@ h5 {
   line-height:300%;
   font-size: 12px;
   color: #FFFFFF;
-}
-
-p{
-  font-size: 12px;
-  margin-left: 50px;
-  margin-top: -25px
-
 }
