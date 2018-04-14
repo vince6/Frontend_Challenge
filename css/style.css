@@ -13,11 +13,19 @@ border-box, *:before, *:after {
   box-sizing: inherit;
 }
 
-nav {
+nav{
   height: 68px;
   width: 375px;
   padding-top: 10px;
   background-color: #2C4B66;
+}
+
+nav p {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 14px;
+  margin-top: -20px;
+  margin-left: 45px;
 }
 
 .navarrow{
@@ -48,7 +56,7 @@ margin-top: 10px;
 
 .wrapper {
   overflow-y:scroll;
-  height:667px;
+  height:610px;
 }
 
 
@@ -123,6 +131,12 @@ font-size: 14px;
 margin-left: 10px;
 margin-top: -5px;
 }
+.east h2 {
+margin-left: -40px;
+}
+.east p {
+  margin-left: 40px;
+}
 
 .north h1{
 font-size: 14px;
@@ -130,14 +144,8 @@ margin-left: 10px;
 margin-top: 1px;
 padding-top: 5px;
 }
-
-.north h2 {
-margin-top: -5px;
-margin-left: -20px;
-}
-
 .north h3 {
-margin-left: 180px;
+  margin-left: 90px;
 }
 
 .south h1 {
@@ -147,33 +155,12 @@ margin-left: 180px;
   padding-top: 5px;
 }
 
-.south h2{
-  margin-top: -5px;
-  margin-left: -20px;
-}
-
-.south h3{
-  margin-left: 180px;
-}
-
-
 .reroute h1 {
   font-size: 14px;
   margin-left: 10px;
   margin-top:1px;
   padding-top: 5px;
 }
-
-.reroute h2 {
-  margin-top: -5px;
-  margin-left: -20px;
-}
-
-.reroute h3 {
-  margin-left: 200px;
-}
-
-
 
 .outofserv h1 {
   font-size: 14px;
@@ -182,54 +169,45 @@ margin-left: 180px;
   padding-top: 5px;
 }
 
-.outofserv h2 {
-  margin-top: -5px;
-  margin-left: -20px;
-}
-
-.outofserv h3 {
-  margin-left: 180px;
-}
-
-
-
-ul li{
+li{
   list-style-type: none;
   display: inline-block;
+  margin-top: -4px;
 }
 
-h1{
-  margin-top: 50px;
-}
 
-h2{
+
+h2 {
   font-size: 12px;
-  margin-left: -30px;
+  margin:0 0 0 -20px;
+  text-align: center;
 }
 
 h3{
   font-size: 12px;
-  margin-left: 170px;
+  margin:0 0 0 40px;
+
 }
 
 p {
   font-size: 12px;
-  margin-left: 50px;
-  margin-top: 10px
+  font-weight: bold;
+  margin:0 0 0 50px;
 }
 
+
 h4 {
-  margin-top: -20px;
-  margin-left:40px;
-  font-size: 15px;
-  text-align: center;
+  margin-top: -30px;
+  margin-left:50px;
+  font-size: 12px;
+  text-align: left;
   color: #FFFFFF;
 }
 
 h5 {
   padding-bottom: 10px;
-  margin-top: -40px;
-  margin-left: 60px;
+  margin-top: 20px;
+  margin-left: 50px;
   line-height:300%;
   font-size: 12px;
   color: #FFFFFF;
