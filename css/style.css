@@ -25,7 +25,7 @@ nav p {
   color: #FFFFFF;
   font-size: 14px;
   margin-top: 15px;
-  margin-left: 60px;
+  margin-left: 40px;
 }
 
 .navarrow{
@@ -46,7 +46,7 @@ nav p {
 
 .bubble {
   position: absolute;
-  padding-left: 244px;
+  padding-left: 262px;
   padding-top: 40px;
 }
 
